@@ -11,6 +11,5 @@
 </div>
 
 <div align="center">
-  
-  ![QAQ0203](image/qaq0203.gif)
+  <img src="image/qaq0203.gif" width="750" />
 </div>
